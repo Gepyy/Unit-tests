@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unit_tests
+namespace SomeProject
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
         }
     }
 }
+
